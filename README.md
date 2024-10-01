@@ -1,5 +1,11 @@
-<h1 align="center">Hi 👋, I'm ZhiJian Li</h1>
-<h3 align="center">A software engineer from Colombia</h3>
+<h1 align="center">Hello 👋, I'm ZhiJian Li</h1>
+<h3 align="center">A senior student from ShanDong University</h3>
+
+## 💻 Current projects
+- viajin [WIP] - Side project
+- budget [WIP] - Side project
+- todo [WIP] - Side project
+
 
 <!--
 **warriorLZJ/warriorLZJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
