@@ -13,7 +13,7 @@
 ## 📰 Publications
 - waiting for hard work
 
-## 💻 Current projects
+## 💻 Completed projects
 - viajin [WIP] - Side project
 - budget [WIP] - Side project
 - todo [WIP] - Side project
