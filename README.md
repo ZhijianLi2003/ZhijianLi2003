@@ -10,6 +10,9 @@
 - viajin [WIP] - Side project
 - viajin [WIP] - Side project
 
+## 📰 Publications
+- viajin [WIP] - Side project
+
 ## 💻 Current projects
 - viajin [WIP] - Side project
 - budget [WIP] - Side project
@@ -21,6 +24,7 @@
 
 ## 📧 Contact me
 - viajin [WIP] - Side project
+
 
 
 
