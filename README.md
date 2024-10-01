@@ -11,7 +11,7 @@
 - viajin [WIP] - Side project
 
 ## 📰 Publications
-- viajin [WIP] - Side project
+- waiting for hard work
 
 ## 💻 Current projects
 - viajin [WIP] - Side project
