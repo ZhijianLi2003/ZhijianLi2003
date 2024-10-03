@@ -1,5 +1,6 @@
-<h1 align="center">Hello 👋, welcome to my homepage</h1>
-
+<h1 align="center">Hello 👋, I'm Zhijian Li</h1>
+<h3 align="center">A Senior Undergraduate from ShanDong University</h3>
+<!--
 ## 👨‍🎓 About me
    　　　　I'm **ZhiJian Li**, a senior student from ShanDong University. And I will start my doctoral reaearch at the Aerospace Information Research Institute, Chinese Academy of Sciences(**AIRCAS**) in September 2025.
 
@@ -24,7 +25,7 @@
 
 ## 📧 Contact me
 - viajin [WIP] - Side project
-
+-->
 
 
 
