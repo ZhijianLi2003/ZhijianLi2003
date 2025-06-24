@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm Zhijian Li</h1>
-<h3 align="center">A Senior Undergraduate from ShanDong University</h3>
+<h3 align="center">A PhD student from the Aerospace Information Research Institute, Chinese Academy of Sciences(AIRCAS)</h3>
 
 
 
